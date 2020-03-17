@@ -2,7 +2,9 @@
 
 Quantmult X  face图标包
 
-使用方法：
+使用方法：https://raw.githubusercontent.com/Orz-3/face/master/图片编号.png
+
+
 
 
 
