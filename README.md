@@ -5,6 +5,10 @@ Quantmult X  face图标包
 使用方法：https://raw.githubusercontent.com/Orz-3/face/master/图片编号.png
 
 
+示例：
+
+![Alt text](https://raw.githubusercontent.com/Orz-3/face/master/%E7%A4%BA%E4%BE%8B.jpg)
+
 
 
 
