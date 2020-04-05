@@ -7,7 +7,7 @@ Quantmult X  face图标包
 
 示例：
 
-![Alt text](https://raw.githubusercontent.com/Orz-3/face/master/%E7%A4%BA%E4%BE%8B.jpg)
+![Alt text](https://raw.githubusercontent.com/Orz-3/face/master/%E7%A4%BA%E4%BE%8B.png)
 
 
 
