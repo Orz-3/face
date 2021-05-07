@@ -1,8 +1,10 @@
-Quantmult X  face图标包
+face图标包
 
-使用方法：https://raw.githubusercontent.com/Orz-3/face/master/name.png
+图片地址：https://raw.githubusercontent.com/Orz-3/face/master/name.png
 
-示例：
+请将上方地址中的name替换成图标的实际文件名
+
+文件名对照：
 
 ![Alt text](https://raw.githubusercontent.com/Orz-3/face/master/%E7%A4%BA%E4%BE%8B.png)
 
